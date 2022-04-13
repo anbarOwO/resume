@@ -13,7 +13,13 @@ x.innerHTML="<img src='work2.jpg'width='300px' height='300px'><p style='text-ali
 function myFunction3()
 {
 x=document.getElementById("demo1");  // 找到元素
-x.innerHTML="<img src='work3.jpg'width='300' height='300px'><p style='text-align:left; text-indent: 50px;font-size:26px;margin-left:30px;margin-right:30px;'>因應目前社交網路化的狀況，電商也是必須學習的一個不可或缺的職位，因此也在電商做過物流及銷售，除了提升面對面的推銷，也加強網路上的推銷"; 
+x.innerHTML="<img src='work3.jpg'width='300px' height='300px'><p style='text-align:left; text-indent: 50px;font-size:26px;margin-left:30px;margin-right:30px;'>因應目前社交網路化的狀況，電商也是必須學習的一個不可或缺的職位，因此也在電商做過物流及銷售，除了提升面對面的推銷，也加強網路上的推銷"; 
+}
+
+function myFunction4()
+{
+x=document.getElementById("demo1");  // 找到元素
+x.innerHTML="<img src='work4.jpg'width='300px' height='300px'><p style='text-align:left; text-indent: 50px;font-size:26px;margin-left:30px;margin-right:30px;'>因應目前社交網路化的狀況，電商也是必須學習的一個不可或缺的職位，因此也在電商做過物流及銷售，除了提升面對面的推銷，也加強網路上的推銷"; 
 }
 
 function myFunction4()
