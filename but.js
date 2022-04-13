@@ -19,5 +19,5 @@ x.innerHTML="<img src='物流.jpg'width='300' height='300px'><p style='text-alig
 function myFunction4()
 {
 x=document.getElementById("demo1");  // 找到元素
-x.innerHTML="<img src='順能.png'width='300px' height='300px'><p style='text-align:left; text-indent: 50px;font-size:26px;margin-left:30px;margin-right:30px;'>最後是補習班的工作，我認為在對於不同客群，該客群的語言也需要了解，我也有選擇到補習班教學，學習在學生時期的共通語言等等。";  
+x.innerHTML="<img src='img/順能.png'width='300px' height='300px'><p style='text-align:left; text-indent: 50px;font-size:26px;margin-left:30px;margin-right:30px;'>最後是補習班的工作，我認為在對於不同客群，該客群的語言也需要了解，我也有選擇到補習班教學，學習在學生時期的共通語言等等。";  
 }
